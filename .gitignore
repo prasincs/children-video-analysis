@@ -1,0 +1,5 @@
+.DS_Store
+tmp
+cut-scenes/*.jpg
+*.mp4
+*.webm
